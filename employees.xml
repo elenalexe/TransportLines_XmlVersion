@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<employees>
+    <employee id="1">
+        <name>Pop Ion</name>
+        <email>popion@ctp.ro</email>
+        <birthDate>23.03.1967</birthDate>
+
+
+    </employee>
+    <employee id="2">
+        <name>Ionescu Maria</name>
+        <email>mariaionescu@ctp.ro</email>
+        <birthDate>04.10.1988</birthDate>
+    </employee>
+    <employee id="3">
+        <name>Gheorghe Viorica</name>
+        <email>vioricagh@ctp.ro</email>
+        <birthDate>13.07.1966</birthDate>
+    </employee>
+    <employee id="4">
+        <name>Androne Mihai</name>
+        <email>mihaiandr@ctp.ro</email>
+        <birthDate>22.01.1990</birthDate>
+    </employee>
+    <employee id="5">
+        <name>Popescu Ileana</name>
+        <email>ileanapopescu@ctp.ro</email>
+        <birthDate>30.07.1988</birthDate>
+    </employee>
+    <employee id="6">
+        <name>Negru Andrei</name>
+        <email>andreinegru@ctp.ro</email>
+        <birthDate>13.06.1978</birthDate>
+    </employee>
+    <employee id="7">
+        <name>Pop Andreea</name>
+        <email>andreea.pop@ctp.ro</email>
+        <birthDate>10.09.1992</birthDate>
+    </employee>
+</employees>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<lines>
+    <line id="1">
+        <number>1</number>
+        <finalStation>Piata 1 Mai</finalStation>
+        <startStation>Manastur</startStation>
+        <stations>asdasd</stations>
+
+    </line>
+    <line id="2">
+        <number>24B</number>
+        <finalStation>Vivo</finalStation>
+        <startStation>Strada Unirii</startStation>
+        <stations>sdsad</stations>
+    </line>
+    <line id="3">
+        <number>48</number>
+        <finalStation>Bld Muncii</finalStation>
+        <startStation>Aleea Baisoara</startStation>
+        <stations>asdas</stations>
+    </line>
+    <line id="4">
+        <number>3</number>
+        <finalStation>Gara</finalStation>
+        <startStation>Strada Unirii</startStation>
+        <stations>sdasd</stations>
+    </line>
+    <line id="5">
+        <number>5</number>
+        <finalStation>Aeroport</finalStation>
+        <startStation>Gara</startStation>
+        <stations>asdsad</stations>
+    </line>
+    <line id="6">
+        <number>6</number>
+        <finalStation>Manastur</finalStation>
+        <startStation>IRA</startStation>
+        <stations>asdas</stations>
+    </line>
+	<line id="7">
+        <number>25</number>
+        <finalStation>Manastur</finalStation>
+        <startStation>Strada Unirii</startStation>
+        <stations>jkjhkj</stations>
+</line>
+</lines>

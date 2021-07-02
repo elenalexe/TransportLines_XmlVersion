@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<users>
+    <user id="1">
+        <username>adrian.lucaciu</username>
+        <password>emp</password>
+        <role>employee</role>
+        <name>Adrian Lucaciu</name>
+    </user>
+    <user id="2">
+        <username>grigore.lucaciu</username>
+        <password>admin</password>
+        <role>admin</role>
+        <name>Grigore Lucaciu</name>
+    </user>
+</users>
